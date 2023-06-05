@@ -1,5 +1,5 @@
 # Ingredient
 - avocado
-- lemon
-- salt s
+- lime
+- salt
 # instructions 
